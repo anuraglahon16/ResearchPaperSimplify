@@ -1,5 +1,3 @@
-
-
 ---
 title: ResearchPaperSimplify
 emoji: 📉
