@@ -1,2 +1,8 @@
-# ResearchPaperSimplify
-To Make Research Paper Simplify and to help new researchers
+---
+title: ResearchPaperSimplify
+emoji: 📉
+colorFrom: Green
+colorTo:  Blue
+sdk: docker
+pinned: false
+---
