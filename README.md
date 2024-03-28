@@ -1,4 +1,4 @@
-ResearchPaperSimplify
+
 
 ---
 title: ResearchPaperSimplify
